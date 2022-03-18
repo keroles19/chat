@@ -1,8 +1,11 @@
 
 ## chat App preview
-<video src='https://user-images.githubusercontent.com/36054945/159077940-700228b3-b932-4870-8d0c-7b13c6706557.mp4
-'width=180/>
+
+<video src="https://user-images.githubusercontent.com/36054945/159077940-700228b3-b932-4870-8d0c-7b13c6706557.mp4"></video>
+
+
 ## KCaht App
+
 Chat app by : - Laravel - Mysql  - Vue Js - laravel echo - event and listner 
 
 
